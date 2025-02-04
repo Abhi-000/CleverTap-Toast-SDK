@@ -17,6 +17,14 @@ This repository is created as part of a **Unity SDK developer assignment**. It i
 - **Android:** Enable **Android Build Support** in Unity **(File > Build Settings > Android)**.  
 - **iOS:** Ensure **Xcode & iOS SDK** are set up correctly.  
 
+### 3️⃣ Install Dependencies
+🔹 Ensure **TextMeshPro** is installed:
+
+1. Go to `Window > Package Manager > Unity Registry > TextMeshPro`.
+2. Click **Install** (if not already installed).
+
+🔹 If the sample scene does not display text properly, go to **Window > TextMeshPro > Import TMP Essential Resources**.
+
 ## 🚀 **Usage**  
 ### 1️⃣ **Show a Toast Notification**  
 Add the `ToastNotificationManager` prefab to your scene and call:  
@@ -52,6 +60,7 @@ public class ToastNotificationButton : MonoBehaviour
     }
 }
 ```
+
 
 ### 🎮 Demo Scene
 📂 Location: `Assets/Samples~/ToastDemoScene.unity`
