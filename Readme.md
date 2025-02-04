@@ -68,7 +68,6 @@ public class ToastNotificationButton : MonoBehaviour
 │    ├── 📂 Prefabs/                # Prefabs related to the SDK (e.g., ToastNotificationManager.prefab)
 │    ├── 📜 package.json            # Unity package metadata for package manager compatibility
 │    ├── 📜 Readme.md               # Documentation explaining usage, installation, and setup
-│── 📂 Packages/                    # (Optional) Unity Package Manager (UPM) dependencies
 │── 📜 CleverTapToastNotification.unitypackage   # Exported Unity package file for distribution
 │── 📜 .gitignore                    # Git ignore file to exclude unnecessary files from version control
 
