@@ -1,0 +1,14 @@
+{
+    "name": "CleverTap.Notifications",
+    "rootNamespace": "CleverTap.Notifications",
+    "references": [
+        "UnityEngine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
