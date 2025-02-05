@@ -69,14 +69,15 @@ public class ToastNotificationButton : MonoBehaviour
 🔹 SDK Folder Structure
 ```plaintext
 📂 CleverTap-Unity-Toast-SDK/       # Root folder of the project
-│── 📂 Assets/                      # Unity's main asset directory
-│    ├── 📂 Editor/                 # Contains editor scripts that should run only inside Unity Editor
-│    ├── 📂 Runtime/                # Contains all runtime scripts required for the SDK to function
-│    ├── 📂 Samples~/               # Contains sample scenes and example usage of the SDK
-│    ├── 📂 Tests/                  # Unit tests for validating SDK functionality
-│    ├── 📂 Prefabs/                # Prefabs related to the SDK (e.g., ToastNotificationManager.prefab)
-│    ├── 📜 package.json            # Unity package metadata for package manager compatibility
-│    ├── 📜 Readme.md               # Documentation explaining usage, installation, and setup
+│── 📂 Assets/
+     ├── 📂 CleverTap/                   # Contains all folders and script related to this SDK
+│         ├── 📂 Editor/                 # Contains editor scripts that should run only inside Unity Editor
+│         ├── 📂 Runtime/                # Contains all runtime scripts required for the SDK to function
+│         ├── 📂 Samples~/               # Contains sample scenes and example usage of the SDK
+│         ├── 📂 Tests/                  # Unit tests for validating SDK functionality
+│         ├── 📂 Prefabs/                # Prefabs related to the SDK (e.g., ToastNotificationManager.prefab)
+│         ├── 📜 package.json            # Unity package metadata for package manager compatibility
+│         ├── 📜 Readme.md               # Documentation explaining usage, installation, and setup
 │── 📜 CleverTapToastNotification.unitypackage   # Exported Unity package file for distribution
 │── 📜 .gitignore                    # Git ignore file to exclude unnecessary files from version control
 
