@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Scenes/ToastNotificationDemo.unity
+    path: Assets/CleverTap/Samples/Scenes/ToastNotificationDemo.unity
     guid: 413b575b86e027041b238b7653d2bd91
   m_configObjects: {}
