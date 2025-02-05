@@ -70,7 +70,7 @@ public class ToastNotificationButton : MonoBehaviour
 ```plaintext
 📂 CleverTap-Unity-Toast-SDK/       # Root folder of the project
 │── 📂 Assets/
-     ├── 📂 CleverTap/                   # Contains all folders and script related to this SDK
+│    ├── 📂 CleverTap/                   # Contains all folders and script related to this SDK
 │         ├── 📂 Editor/                 # Contains editor scripts that should run only inside Unity Editor
 │         ├── 📂 Runtime/                # Contains all runtime scripts required for the SDK to function
 │         ├── 📂 Samples~/               # Contains sample scenes and example usage of the SDK
